@@ -1,0 +1,14 @@
+{
+  "key_1": "Total No of Boxes to be displayed on each side",
+  "key_2": "Max No of Numbers allowed for selecting",
+  "key_3": "Max No of Alphabets allowed for selecting",
+  "key_4": "Max No of Total Selections allowed for selecting on both the sides",
+  "key_5": "Error: Unable to select as Max No of Alphabet reached ( 6 )",
+  "key_6": "Error: Unable to select as Max No of Numbers reached (7)",
+  "key_7": "Error: Unable to select as Max No of Selections Reached (7 )",
+  "key_8": "Error: Only Max of 11 select boxes can be Created, enter value less than or equal to 11",
+  "key_9": "Error: You cannot enter value more than 18 in Max No of Selections.",
+  "key_10": "Error: You cannot enter value more than 9 in Max No of Alphabets",
+  "key_11": "Error: You cannot enter value more than 9 in Max No of Numbers",
+  "key_12": "Success"
+}
